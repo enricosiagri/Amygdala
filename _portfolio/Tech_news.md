@@ -1,7 +1,6 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Incredible Tech News"
+excerpt: "Take a look at the mind blowing innovations"
 header:
   image: /assets/images/about.png
 ---
-Unganda

@@ -1,8 +1,6 @@
 ---
-title: "business news"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Amazing Business News"
+excerpt: "Get the latest and positive business reviews"
 header:
   image: /assets/images/about.png
----
-DA business
 ---
