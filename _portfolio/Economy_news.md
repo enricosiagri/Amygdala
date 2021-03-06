@@ -1,6 +1,5 @@
 ---
-title: "Amazing Business News"
-excerpt: "Get the latest and positive business reviews"
+title: "Business & Economy"
 header:
-  image: /assets/images/about.png
+  overlay_image: /assets/images/about.png
 ---
